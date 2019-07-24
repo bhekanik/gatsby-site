@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "random-ramblings",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Some thoughts about things I learn",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
