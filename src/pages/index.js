@@ -8,8 +8,12 @@ const IndexPage = () => {
   return (
     <Layout>
       <Head title="Home" />
-      <h1>Hello</h1>
-      <p>I'm BK, a full stack developer living in SA.</p>
+      <h1>Full Stack Web & GIS Developer</h1>
+      <p>
+        Hi, I'm BK, a technology enthusiast, GIS specialist and full stack web
+        developer. I am dedicated to creating intuitive and well designed
+        feature driven applications to help businesses make a statement.
+      </p>
     </Layout>
   )
 }

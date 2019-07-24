@@ -16,7 +16,17 @@ const ContactPage = () => {
           href="https://twitter.com/bhekanik">
           @bhekanik
         </a>{' '}
-        on twitter
+        on twitter or via{' '}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.linkedin.com/in/bhekanik/">
+          LinkedIn.
+        </a>{' '}
+        be sure to check out my{' '}
+        <a target="_blank" rel="noopener noreferrer" href="https://bhekani.com">
+          portfolio site.
+        </a>
       </p>
     </Layout>
   )
