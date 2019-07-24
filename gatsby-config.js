@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: 'Full-stack Bootcamp',
+    title: 'Random Ramblings',
     author: 'Bhekani Khumalo',
   },
   plugins: [
